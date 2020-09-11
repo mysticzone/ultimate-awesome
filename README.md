@@ -6,7 +6,7 @@
 
 
 ### Python
-- [Python-Cookbook](https://github.com/dabeaz/python-cookbook)
+- [Python3-Cookbook](https://github.com/yidao620c/python3-cookbook)
 - [Patterns/Python](https://github.com/faif/python-patterns)
 - [Algorithm-Pattern/Python](https://github.com/dashidhy/algorithm-pattern-python)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
@@ -20,6 +20,7 @@
 - [Go.PKG.search](https://pkg.go.dev/)
 - [Go.PKN.CN](https://golang.google.cn/pkg/)
 - [Project-Layout](https://github.com/golang-standards/project-layout)
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
 
 ### FE
@@ -38,3 +39,8 @@
 ### Awesome
 - [Awesome-Distributed-Systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
+
+
+### Interview
+- [Coding-Interview-University](https://github.com/jwasham/coding-interview-university)
+
