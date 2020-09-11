@@ -12,6 +12,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 - [ClassicalPost/Python](https://pyzh.readthedocs.org/en/latest/)
 - [DRF-Login-Auth](https://sunscrapers.com/blog/django-rest-framework-login-and-authentication/)
+- [python-parallel-programmning](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 
 ### Golang
