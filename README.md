@@ -28,10 +28,11 @@
 
 
 ### Classical Algorithm
-- [Algorithm-Pattern](https://github.com/greyireland/algorithm-pattern)
 - [十大经典排序算法](https://www.cnblogs.com/onepixel/p/7674659.html)
-- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+- [Algorithm-Pattern](https://github.com/greyireland/algorithm-pattern)
 - [Fucking-Algorithm](https://github.com/labuladong/fucking-algorithm)
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+- [LeetCode](https://github.com/grandyang/leetcode)
 
 
 ### Awesome
