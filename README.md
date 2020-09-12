@@ -45,3 +45,13 @@
 ### Interview
 - [Coding-Interview-University](https://github.com/jwasham/coding-interview-university)
 
+
+### Blogs
+- [coolshell](https://coolshell.cn/about)
+- [Ops-Coffee](https://www.ops-coffee.cn/tools.html)
+- [GeekTutu](https://geektutu.com/)
+- [Dev.Python](https://dev.to/t/python)
+- [tutorial.python](https://www.tutorialspoint.com/python/index.htm)
+- [Zone](https://dzone.com/)
+- [XueTang](https://next.xuetangx.com/)
+
