@@ -15,6 +15,12 @@
 - [python-parallel-programmning](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 
+### ML&DL
+- [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml)
+
+
 ### Golang
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 - [The-Way-To-Go](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
@@ -24,9 +30,11 @@
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
 
+
 ### FE
 - [Javascript](https://wangdoc.com/javascript/)
 - [DummyImage](https://dummyimage.com/)
+
 
 
 ### Classical Algorithm
