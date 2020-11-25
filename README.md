@@ -20,6 +20,7 @@
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 - [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml)
 - [AI Learning for apachecn](https://github.com/apachecn/ailearning)
+- [DataWhale](https://github.com/datawhalechina)
 
 
 ### Golang
